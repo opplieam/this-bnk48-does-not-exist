@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/this-bnk48-does-not-exist/precache-manifest.423db06438fe2195742aac363637c740.js"
+  "/this-bnk48-does-not-exist/precache-manifest.c2f4c6cb3af567a2db30d658b0487fd8.js"
 );
 
 self.addEventListener('message', (event) => {
